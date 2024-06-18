@@ -21,13 +21,6 @@ Welcome to the AI Tattoo Generator repository! This project leverages advanced A
 3. Let the AI generate a unique tattoo design for you.
 4. Download the high-resolution design and take it to your favorite tattoo artist.
 
-## Example Designs
-
-Here are some examples of stunning tattoo designs created using InkGen:
-
-![Tattoo Ideas](https://inkgen.ai/idea)
-![Tattoo Meanings](https://inkgen.ai/meaning)
-
 
 ## Contributing
 
