@@ -32,8 +32,8 @@ We welcome contributions from the community. If you have ideas for improving Ink
 For any questions or feedback, please contact us at [help@inkgen.ai].
 
 ## Links
-[Microsoft](https://answers.microsoft.com/en-us/profile/fb490857-2b6c-469e-b782-c94dc42ba458?activeViewTab=Profile&updated=1)
-[ChatGPT](https://chatgpt.com/g/g-7ItDNVPuH-ai-tattoo-generator)
+- [Microsoft](https://answers.microsoft.com/en-us/profile/fb490857-2b6c-469e-b782-c94dc42ba458?activeViewTab=Profile&updated=1)
+- [ChatGPT](https://chatgpt.com/g/g-7ItDNVPuH-ai-tattoo-generator)
 [YouTube](https://www.youtube.com/redirect?q=https://inkgen.ai/)
 [GitHub](https://github.com/MattPhelps/ai-tattoo-generator)
 [Adobe](https://edex.adobe.com/community/member/PdXfCYkDo)
