@@ -73,6 +73,7 @@ For any questions or feedback, please contact us at [help@inkgen.ai].
 - [Peerlist](https://peerlist.io/inkgen/project/inkgen)
 - [Perchance](https://perchance.org/inkgen)
 - [AppSumo](https://appsumo.com/profile/InkGen/)
+- [Trustpilot](https://se.trustpilot.com/review/inkgen.ai)
 
 Start creating your dream tattoo today with [InkGen](https://inkgen.ai/) and explore the endless possibilities of AI-generated designs!
 
