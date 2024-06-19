@@ -1,4 +1,4 @@
-[# AI Tattoo Generator](https://inkgen.ai/)
+# [AI Tattoo Generator](https://inkgen.ai/)
 Generate your own tattoos online for free with InkGen
 
 Welcome to the AI Tattoo Generator repository! This project leverages advanced AI to help you create custom tattoo designs effortlessly. Whether you are a tattoo enthusiast or a professional artist, our tool, InkGen, is here to inspire and bring your ideas to life.
