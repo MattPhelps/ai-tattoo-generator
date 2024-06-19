@@ -26,9 +26,6 @@ Welcome to the AI Tattoo Generator repository! This project leverages advanced A
 
 We welcome contributions from the community. If you have ideas for improving InkGen or want to add new features, feel free to open an issue or submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
