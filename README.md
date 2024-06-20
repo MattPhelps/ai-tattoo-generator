@@ -83,5 +83,5 @@ For any questions or feedback, please contact us at [help@inkgen.ai].
 - [Trustpilot](https://se.trustpilot.com/review/inkgen.ai)
 - [YouTube](https://www.youtube.com/@inkgentattoo)
 
-Start creating your dream tattoo today with [InkGen](https://inkgen.ai/) and explore the endless possibilities of AI-generated designs!
+Start creating your dream tattoo today with [https://inkgen.ai/](https://inkgen.ai/) and explore the endless possibilities of AI-generated designs!
 
