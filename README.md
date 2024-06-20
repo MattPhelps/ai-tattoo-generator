@@ -38,7 +38,7 @@ For any questions or feedback, please contact us at [help@inkgen.ai].
 - [GitHub](https://github.com/MattPhelps/ai-tattoo-generator)
 - [Adobe](https://edex.adobe.com/community/member/PdXfCYkDo)
 - [Blogger](https://www.blogger.com/profile/16300626413900543389)
--[VoxMedia](https://www.voxmedia.com/users/inkgen)
+- [VoxMedia](https://www.voxmedia.com/users/inkgen)
 - [Tumblr](https://www.tumblr.com/inkgenai/753652256500531200/ai-tattoo-generator-inkgen)
 - [Flickr](https://www.flickr.com/people/200895828@N03/)
 - [IMDb](https://www.imdb.com/user/ur183498067/?ref_=nv_usr_prof_2)
