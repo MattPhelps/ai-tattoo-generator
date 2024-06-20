@@ -78,6 +78,7 @@ For any questions or feedback, please contact us at [help@inkgen.ai].
 - [Docker](https://hub.docker.com/u/inkgen)
 - [Gravayar](https://gravatar.com/inkgenai)
 - [Reddit](https://www.reddit.com/user/inkgen_ai/)
+- [GoodReads](https://www.goodreads.com/user/show/179277285-mattt-phelps)
 
 Start creating your dream tattoo today with [https://inkgen.ai/](https://inkgen.ai/) and explore the endless possibilities of AI-generated designs!
 
