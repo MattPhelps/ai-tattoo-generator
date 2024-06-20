@@ -80,6 +80,7 @@ For any questions or feedback, please contact us at [help@inkgen.ai].
 - [Reddit](https://www.reddit.com/user/inkgen_ai/)
 - [GoodReads](https://www.goodreads.com/user/show/179277285-mattt-phelps)
 - [Subreddit](https://www.reddit.com/r/InkGen/)
+- [Medium](https://medium.com/@matt-phelps)
 
 Start creating your dream tattoo today with [https://inkgen.ai/](https://inkgen.ai/) and explore the endless possibilities of AI-generated designs!
 
