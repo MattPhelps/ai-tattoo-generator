@@ -73,6 +73,14 @@ For any questions or feedback, please contact us at [help@inkgen.ai].
 - [Peerlist](https://peerlist.io/inkgen/project/inkgen)
 - [Perchance](https://perchance.org/inkgen)
 - [AppSumo](https://appsumo.com/profile/InkGen/)
+- [perchance.org/tattoo-generator-ai](https://perchance.org/tattoo-generator-ai)
+- [tattoo-ai-generator-free-online](https://perchance.org/tattoo-ai-generator-free-online)
+- [free-ai-tattoo-generator](https://perchance.org/free-ai-tattoo-generator)
+- [ai-tattoo-generator-free](https://perchance.org/ai-tattoo-generator-free)
+- [best-ai-tattoo-generator](https://perchance.org/best-ai-tattoo-generator)
+- [tattoo-ai-generator-free](https://perchance.org/tattoo-ai-generator-free)
+- [tattoo-ai-generator](https://perchance.org/tattoo-ai-generator)
+
 - [Trustpilot](https://se.trustpilot.com/review/inkgen.ai)
 - [YouTube](https://www.youtube.com/@inkgentattoo)
 
