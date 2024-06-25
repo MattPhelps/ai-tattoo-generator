@@ -62,6 +62,7 @@ For any questions or feedback, please contact us at [help@inkgen.ai].
 - [Subreddit](https://www.reddit.com/r/InkGen/)
 - [Medium](https://medium.com/@matt-phelps)
 - [LingoJam](https://lingojam.com/AITattooGenerator)
+- [Medium](https://medium.com/@matt-phelps/10-best-ai-tattoo-generators-with-free-plans-5e9c6b0b6137)
 
 Start creating your dream tattoo today with [https://inkgen.ai/](https://inkgen.ai/) and explore the endless possibilities of AI-generated designs!
 
